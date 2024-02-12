@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chidalu
+- 👋 Hi, I’m chidalu
 - currently a freelance visual designer, available for full-time work
 - 👀 I’m interested in web animations
 - 🌱 I’m currently learning to code
